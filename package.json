@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RobsonTrasel/CleanCodeAPI/issues"
   },
-  "homepage": "https://github.com/RobsonTrasel/CleanCodeAPI#readme"
+  "homepage": "https://github.com/RobsonTrasel/CleanCodeAPI#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.2.1"
+  }
 }
