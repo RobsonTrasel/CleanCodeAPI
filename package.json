@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/RobsonTrasel/CleanCodeAPI#readme",
   "devDependencies": {
-    "git-commit-msg-linter": "^4.2.1"
+    "@types/node": "^18.7.23",
+    "express": "^4.18.1",
+    "git-commit-msg-linter": "^4.2.1",
+    "typescript": "^4.8.3"
   }
 }
