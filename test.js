@@ -1,1 +1,1 @@
-console.log('[Teste] Sucesso! Done')
+console.log('[Teste] Sucesso!')
